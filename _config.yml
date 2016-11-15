@@ -1,0 +1,62 @@
+# Site settings
+title: Ryan Tillis
+email: ryantillis@gmail.com.com
+url: https://example.github.io
+description: “Data Technology Consultant“
+skills: Data Technology Consultant
+meta_author: Tillis Ryan
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 293842
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 22b24c 
+  secondary-dark: 6e91a3 
+
+# Footer settings
+footer:
+  copyright: Ryan Tillis
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: google-plus
+    url: https://plus.google.com/u/0/105043608605793235071
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/7058456/ryan-tillis
+  - title: linkedin
+    url: https://www.linkedin.com/in/ryan-tillis-b8400975
+  - title: github
+    url: https://github.com/ryantillis
+  - title: chevron-left
+    url: https://www.kaggle.com/ryantillis
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 133 N 6th Street
+  - line: Brooklyn, NY 11249
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

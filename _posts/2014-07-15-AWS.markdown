@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: aws.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Right now, Amazon Web services pretty much dominates the cloud. They offer a wide range of scalable on-demand services that are well-documented and user-friendly compared to other cloud computing methods.
+
+---

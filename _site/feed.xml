@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Tillis</title>
+    <description>“Data Technology Consultant“</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 15 Nov 2016 09:52:50 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 09:52:50 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Cli Git</title>
+        <description>Version control is important</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/18/CLI-Git/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/CLI-Git/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>R</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/17/R/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/R/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Python</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/16/Python/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/Python/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Aws</title>
+        <description>Right now, Amazon Web services pretty much dominates the cloud. They offer a wide range of scalable on-demand services that are well-documented and user-friendly compared to other cloud computing methods.</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/15/AWS/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/AWS/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Google Analytics</title>
+        <description>Google analytics for monitoring web traffic.</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/15/Google-Analytics/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/Google-Analytics/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Google Cloud</title>
+        <description>Google Cloud is a strong alternative to AWS. They provide a nice machine learning package and server access directly through the browser. There aren’t as many free machine images available</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/14/Google-Cloud/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/Google-Cloud/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
